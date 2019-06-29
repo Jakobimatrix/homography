@@ -2,7 +2,7 @@
 Calculates the 3x3 homography matrix from a given set of corresponding point pairs to transform between two points of view.
 
 ### Dependencies:
-* Eigen
+* Eigen 3.3
 
 ### Features
 * calculate the  3x3 homography matrix useing different solver for linear Ax=b Problems provided by Eigen
