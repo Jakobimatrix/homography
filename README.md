@@ -1,6 +1,7 @@
 # homography
 Calculates the 3x3 homography matrix from a given set of corresponding point pairs to transform between two points of view.
 
+Please use clang-tidy if you want to contribute: [easy installation](https://github.com/Jakobimatrix/initRepro)
 ### Dependencies:
 * Eigen 3.3
 
